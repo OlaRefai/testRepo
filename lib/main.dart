@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Login sign up demo',
+      title: 'Flutter Test Project',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
